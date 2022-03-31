@@ -2,7 +2,7 @@
   "name": "openclassrooms-romain-fml-omf",
   "version": "1.0.0",
   "description": "projet Oh my Food - Openclassrooms - RF",
-  "main": "accueil.html",
+  "main": "index.html",
   "scripts": {
     "sass":"sass --watch ./css/style.scss:./css/style.css --style expanded"
   },
