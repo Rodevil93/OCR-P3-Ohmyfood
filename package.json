@@ -1,0 +1,19 @@
+{
+  "name": "openclassrooms-romain-fml-omf",
+  "version": "1.0.0",
+  "description": "projet Oh my Food - Openclassrooms - RF",
+  "main": "accueil.html",
+  "scripts": {
+    "sass":"sass --watch ./css/style.scss:./css/style.css --style expanded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodevil93/OCR-P3-Ohmyfood.git"
+  },
+  "author": "Romain Fameli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodevil93/OCR-P3-Ohmyfood/issues"
+  },
+  "homepage": "https://github.com/Rodevil93/OCR-P3-Ohmyfood#readme"
+}
